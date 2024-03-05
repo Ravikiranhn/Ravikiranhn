@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ravikiranhn
 - 👀 I’m interested in Learning new things
-- 🌱 I’m currently learning SPFx
 - 📫 How to reach me ravikiran.ravikiran@abbott.com
 - 😄 Pronouns: ...Ravi
 
